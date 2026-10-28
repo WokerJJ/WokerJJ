@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://wokerjj.github.io/portafolio"><img src="https://img.shields.io/badge/>_portafolio-0d1117?style=for-the-badge&logo=gnometerminal&logoColor=39d353" alt="Portafolio"/></a>
-  <a href="https://www.linkedin.com/in/jhonhucker"><img src="https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/jhonhucker"><img src="https://img.shields.io/badge/in_linkedin-0d1117?style=for-the-badge&logoColor=58a6ff&color=0a66c2" alt="LinkedIn"/></a>
   <a href="mailto:jchalarcaramirez@gmail.com"><img src="https://img.shields.io/badge/email-0d1117?style=for-the-badge&logo=gmail&logoColor=ff7b72" alt="Email"/></a>
   <img src="https://img.shields.io/badge/remoto_·_freelance-disponible-39d353?style=for-the-badge&labelColor=0d1117" alt="Disponible"/>
 </p>
@@ -112,10 +112,6 @@ woker@roldanillo:~$ cat about.md
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WokerJJ&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=58a6ff&text_color=c9d1d9" height="165" alt="GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WokerJJ&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" height="165" alt="Top lenguajes"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WokerJJ&bg_color=0d1117&color=c9d1d9&line=39d353&point=58a6ff&area=true&area_color=39d353&hide_border=true" width="100%" alt="Gráfico de actividad"/>
 </p>
 
 <!-- 🐍 Snake de contribuciones: se genera con .github/workflows/snake.yml en la rama "output" -->
