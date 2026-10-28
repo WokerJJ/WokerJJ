@@ -12,6 +12,7 @@
   <a href="https://wokerjj.github.io/portafolio"><img src="https://img.shields.io/badge/>_portafolio-0d1117?style=for-the-badge&logo=gnometerminal&logoColor=39d353" alt="Portafolio"/></a>
   <a href="https://www.linkedin.com/in/jhonhucker"><img src="https://img.shields.io/badge/in_linkedin-0d1117?style=for-the-badge&logoColor=58a6ff&color=0a66c2" alt="LinkedIn"/></a>
   <a href="mailto:jchalarcaramirez@gmail.com"><img src="https://img.shields.io/badge/email-0d1117?style=for-the-badge&logo=gmail&logoColor=ff7b72" alt="Email"/></a>
+  <a href="https://buymeacoffee.com/jchalarcarv"><img src="https://img.shields.io/badge/buy_me_a_coffee-0d1117?style=for-the-badge&logo=buymeacoffee&logoColor=FFDD00" alt="Buy Me a Coffee"/></a>
   <img src="https://img.shields.io/badge/remoto_·_freelance-disponible-39d353?style=for-the-badge&labelColor=0d1117" alt="Disponible"/>
 </p>
 
@@ -118,6 +119,14 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WokerJJ/WokerJJ/output/snake-dark.svg"/>
     <img src="https://raw.githubusercontent.com/WokerJJ/WokerJJ/output/snake.svg" alt="snake comiéndose mis contribuciones"/>
   </picture>
+</p>
+
+## `$ sudo make coffee`
+
+<p align="center">
+  Si algún proyecto te sirvió o quieres apoyar lo que construyo desde Roldanillo, invítame un café ☕ — se convierte en código.
+  <br/><br/>
+  <a href="https://buymeacoffee.com/jchalarcarv"><img src="https://img.buymeacoffee.com/button-api/?text=Inv%C3%ADtame%20un%20caf%C3%A9&emoji=%E2%98%95&slug=jchalarcarv&button_colour=39d353&font_colour=0d1117&font_family=Bree&outline_colour=0d1117&coffee_colour=FFDD00" alt="Buy Me a Coffee" height="48"/></a>
 </p>
 
 ```console
