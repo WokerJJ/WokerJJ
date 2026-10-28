@@ -15,9 +15,7 @@
   <img src="https://img.shields.io/badge/remoto_·_freelance-disponible-39d353?style=for-the-badge&labelColor=0d1117" alt="Disponible"/>
 </p>
 
-```console
-woker@roldanillo:~$ cat about.md
-```
+## `$ cat about.md`
 
 > Full-Stack Developer con enfoque **backend** desde Roldanillo, Valle del Cauca 🇨🇴.
 > Construyo software que resuelve problemas reales: helpdesks con IA, apps para mi municipio,
@@ -33,15 +31,15 @@ woker@roldanillo:~$ cat about.md
 ## `$ ./ahora --building`
 
 ```diff
-+ resolvia ............ Mesa de ayuda con IA: clasifica tickets de soporte TI y sugiere soluciones (RAG)
-                         NestJS · Prisma · PostgreSQL + pgvector · React + Vite · Flutter · Docker
-                         monorepo · feat/* → develop · AGPL-3.0 · on-premise + nube multi-organización
-                         🎯 meta: v1.0.0 — 18/12/2026
++ resolvia ........ Mesa de ayuda con IA para soporte TI (RAG)
+                    NestJS · Prisma · PostgreSQL + pgvector
+                    React + Vite · Flutter · Docker · AGPL-3.0
+                    🎯 meta: v1.0.0 — 18/12/2026
 
-+ veni-roldanillo ..... Todos los restaurantes de Roldanillo en una PWA bilingüe (ES/EN):
-                         menús, mapa y pedidos por WhatsApp sin comisión · TypeScript
++ veni-roldanillo . PWA bilingüe con los restaurantes de Roldanillo
+                    menús · mapa · pedidos por WhatsApp sin comisión
 
-+ veni-mapa ........... Mapa propio de Roldanillo: extracto OpenStreetMap en PMTiles + estilo MapLibre
++ veni-mapa ....... Mapa propio: OpenStreetMap → PMTiles + MapLibre
 ```
 
 ## `$ ls -la ~/proyectos`
@@ -62,17 +60,17 @@ woker@roldanillo:~$ cat about.md
 ## `$ git log --oneline --graph experiencia`
 
 ```text
-* 2026-10  feat: veni-roldanillo + veni-mapa — app y mapa propio para mi municipio
-* 2026-09  feat: resolvia — helpdesk con IA (NestJS + pgvector), rumbo a v1.0.0
-* 2026-06  release: OITEL · Universidad del Valle (Zarzal) — práctica en Desarrollo Web y Soporte TI
-|            ↳ envío automatizado de PDFs a 120+ docentes (Node.js + Gmail API + OAuth 2.0)
+* 2026-10  feat: veni-roldanillo + veni-mapa — app para mi municipio
+* 2026-09  feat: resolvia — helpdesk con IA (NestJS + pgvector)
+* 2026-06  release: OITEL · Univalle Zarzal — práctica Desarrollo Web y TI
+|            ↳ envío automático de PDFs a 120+ docentes (Node + Gmail API)
 |            ↳ proceso manual de 2 días → menos de 15 minutos
 |            ↳ apps Laravel/PHP para Talento Humano · soporte TI y redes
-* 2026-06  feat: control-accesos-laravel — proyecto de grado, migrado de PHP puro a Laravel
-* 2025-07  init: Tecnología en Gestión de Sistemas Informáticos — UNINTEP (Roldanillo)
-* 2022-04  release: Accedo (Pereira) — pasantía en Programación Web · Laravel · Vue.js
-* 2022-04  done: Técnico en Programación y Desarrollo de Software — SENA
-* ·······  done: Técnico Profesional en Soporte de Sistemas Informáticos — INTEP
+* 2026-06  feat: control-accesos-laravel — de PHP puro a Laravel
+* 2025-07  init: Tec. Gestión de Sistemas Informáticos — UNINTEP
+* 2022-04  release: Accedo (Pereira) — pasantía web · Laravel · Vue.js
+* 2022-04  done: Técnico en Programación de Software — SENA
+* ·······  done: Téc. Prof. Soporte de Sistemas Informáticos — INTEP
 * ·······  cert: Cisco Networking Academy — Networking Basics
 ```
 
